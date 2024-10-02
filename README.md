@@ -7,7 +7,7 @@
 - 😄 Pronouns: Let me introduce myself Fabian Rafi, in here
 - I have an interest in the world of programming and development
   
-- ⚡ Fun fact: I really like playing basketball and then I also really like drawing
+- ⚡ Fun fact: I really like playing basketball and I also really like drawing
 
 <!---
 Biann10/Biann10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
