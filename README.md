@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning coding
 -💞️ I’m looking to collaborate on Github
-- 📫 How to reach me you can contact me on
+- 📫 How to contact me?? you can contact me on
 - instagram @fabianrf_10
 - 😄 Pronouns: Let me introduce myself Fabian Rafi, in here
 - I have an interest in the world of programming and development
